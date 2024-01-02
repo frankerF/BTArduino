@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTArduino", "BTArduino\BTArduino.csproj", "{41E0D6E4-AEFB-4DA0-A7CF-DCB3533775BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E0D6E4-AEFB-4DA0-A7CF-DCB3533775BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E0D6E4-AEFB-4DA0-A7CF-DCB3533775BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E0D6E4-AEFB-4DA0-A7CF-DCB3533775BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E0D6E4-AEFB-4DA0-A7CF-DCB3533775BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4EA873-0C4A-4C9C-A2DD-1D63018B350B}
+	EndGlobalSection
+EndGlobal
